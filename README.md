@@ -1,2 +1,2 @@
 # nuel_emeka Hamoye
-These stores files used in hamoye DS internship 
+These stores files for my personal dev 
